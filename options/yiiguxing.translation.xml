@@ -1,0 +1,55 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="maintenance" />
+      <item value="_childCount is" />
+      <item value="message" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669796522690" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1679195180825" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="540" />
+    <option name="newTranslationDialogY" value="383" />
+    <histories>
+      <item value="Shifted" />
+      <item value="Slotted" />
+      <item value="Leaf" />
+      <item value="default behavior for subclasses that have sizedByParent = true" />
+      <item value="paragraph" />
+      <item value="finite" />
+      <item value="macro" />
+      <item value="Navigate to the settings page. If the user leaves and returns to the app after it has been killed while running in the background, the navigation stack is restored." />
+      <item value="Provide the generated AppLocalizations to the MaterialApp. This allows descendant Widgets to display the correct translations depending on the user's locale." />
+      <item value="Providing a restorationScopeId allows the Navigator built by the MaterialApp to restore the navigation stack when a user leaves and returns to the app after it has been killed while running in the background" />
+      <item value="For the sanity of the reader, make sure these properties are in the same order in every place that they are separated by section comments (e.g. GENERAL CONFIGURATION). Each section except for deprecations should be alphabetical by symbol name." />
+      <item value="Diagnostics" />
+      <item value="The listenable's state is our build state, and it changed already." />
+      <item value="glue" />
+      <item value="glu" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
+      </map>
+    </option>
+  </component>
+</application>
