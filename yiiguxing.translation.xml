@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="540" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="To make sure that listeners removed during this iteration are not called, we set them to null, but we don't shrink the list right away. By doing this, we can continue to iterate on our list until it reaches the last listener added before the call to this method. To allow potential listeners to recursively call notifyListener, we track the number of times this method is called in _notificationCallStackDepth. Once every recursive iteration is finished (i.e. when _notificationCallStackDepth == 0), we can safely shrink our list so that it will only contain not null listeners." />
       <item value="Shifted" />
       <item value="Slotted" />
       <item value="Leaf" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
